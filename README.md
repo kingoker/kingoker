@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingoker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingoker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" height="170" src="https://pbs.twimg.com/profile_images/1539345724847951872/MoXbsbu6_400x400.jpg"  />
 </div>
 
